@@ -1,0 +1,1 @@
+# gb-friendly-chat-test
